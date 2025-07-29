@@ -1,4 +1,4 @@
-# Welcome to my Github profile!👋
+# Welcome to my Github profile👋
 ![github-header-image](https://github.com/user-attachments/assets/cf31f0d5-f26d-4356-b3ef-e755a625698f)
 <h1 align="center">Hi 👋, I'm Habiba Nadeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
